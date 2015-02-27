@@ -1,6 +1,6 @@
 # Curso OPEC
 
-Archivos del curso de HTML5 para el grupo de OPEC.
+Archivos del curso de desarrollo web para el grupo de OPEC.
 
 Links:
 
