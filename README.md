@@ -13,4 +13,6 @@ Archivos del curso de desarrollo web para el grupo de OPEC.
 Contribuye sin problemas con tus aportaciones.
 
 
-:date: Última actualización: 27/02/2015
+
+
+> :date: **Última actualización:** 27/02/2015
