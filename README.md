@@ -1,4 +1,4 @@
-# CursoOPEC
+# Curso OPEC
 
 Archivos del curso de HTML5 para el grupo de OPEC.
 
